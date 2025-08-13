@@ -2,9 +2,3 @@
 ProxyWisp — VPN-клиент на базе Xray, обеспечивающий быстрое и стабильное подключение к сети с поддержкой современных протоколов и шифрования.
 
 /update
-/update
-/update
-/update
-/update
-/update
-/update
