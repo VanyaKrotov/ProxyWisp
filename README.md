@@ -3,3 +3,4 @@ ProxyWisp — VPN-клиент на базе Xray, обеспечивающий 
 
 /update
 /update
+/update
