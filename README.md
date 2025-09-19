@@ -87,6 +87,6 @@ ProxyWisp разрабатывается в свободное время и р�
 
 - USDT (TRC20): `TFY8bmCWiwpWfvUknEFxPVEj8Mw4GR49d7`
 - BTC: `1LMNeaEvzEE874MBp98V5C1rXcpBXYJBrD`
-- ETH(ERC20): `0xdc8e5f647799687dfe562b40373a366eb5c64eba`
+- ETH (ERC20): `0xdc8e5f647799687dfe562b40373a366eb5c64eba`
 
 🙏 Спасибо каждому, кто поддерживает ProxyWisp!
