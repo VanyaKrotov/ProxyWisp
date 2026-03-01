@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Russia v2ray rules",
+    "description": "Этот репозиторий содержит автоматически обновляемые правила маршрутизации V2Ray, основанные на данных о заблокированных доменах и адресах в России.",
+    "repository": "https://github.com/runetfreedom/russia-v2ray-rules-dat"
+  },
+  {
+    "name": "RULITE",
+    "description": "⚡ Автоматическая сборка облегченных файлов geoip.dat и geosite.dat каждые 40 минут после выхода релиза runetfreedom/russia-v2ray-rules-dat, только если файлы действительно изменились.",
+    "repository": "https://github.com/sendmiche/rulite"
+  },
+  {
+    "name": "v2ray rules",
+    "description": "This repository contains automatically updated V2Ray routing rules.",
+    "repository": "https://github.com/Loyalsoldier/v2ray-rules-dat"
+  },
+  {
+    "name": "Iran v2ray rules",
+    "description": "This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.",
+    "repository": "https://github.com/Chocolate4U/Iran-v2ray-rules"
+  }
+]
